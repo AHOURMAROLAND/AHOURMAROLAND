@@ -125,4 +125,16 @@ Dream League Soccer tournament management platform with real-time scoring and st
 
 <img src="https://streak-stats.demolab.com/?user=AHOURMAROLAND&theme=radical&hide_border=true" alt="GitHub streak"/>
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AHOURMAROLAND&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHOURMAROLAND&theme=redical&hide_border=true" alt="Activity Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AHOURMAROLAND&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AHOURMAROLAND/AHOURMAROLAND/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
