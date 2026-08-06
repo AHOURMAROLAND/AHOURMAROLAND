@@ -129,7 +129,7 @@ Dream League Soccer tournament management platform with real-time scoring and st
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AHOURMAROLAND&theme=redical&hide_border=true" alt="Activity Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AHOURMAROLAND&theme=discord&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AHOURMAROLAND&theme=discord&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
