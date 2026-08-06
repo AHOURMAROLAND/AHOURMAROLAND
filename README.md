@@ -35,7 +35,7 @@
 <p>
 <a href="mailto:rolandahourma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/AHOURMAROLAND"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://rolax1212.github.io/dlsrolandgithub.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://helpful-unicorn-dd021f.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Phone-+228_90_94_04_02-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
@@ -121,8 +121,8 @@ Dream League Soccer tournament management platform with real-time scoring and st
 
 ### 🚀 *Let's build something extraordinary together.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=AHOURMAROLAND&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AHOURMAROLAND&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AHOURMAROLAND&theme=radical&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=AHOURMAROLAND&theme=radical&hide_border=true" alt="GitHub streak"/>
 
 </div>
