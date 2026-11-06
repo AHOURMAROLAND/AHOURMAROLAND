@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd year student in **GLSI** (Génie Logiciel et Systèmes d'Information) at **IAI-TOGO**
+- 🎓 3 td year student in **GLSI** (Génie Logiciel et Systèmes d'Information) at **IAI-TOGO**
 - 💻 Passionate about building **full-stack, real-world solutions** for West African markets
 - 🛠️ Comfortable across the stack: **Django/DRF, FastAPI, React, React Native, Flutter**
 - 📚 Currently sharpening my AI skills through the **Anthropic Academy**
